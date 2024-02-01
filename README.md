@@ -13,5 +13,10 @@
 
 https://08-log.tistory.com/
 
-<!--[![asdf080's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdf080)](https://github.com/anuraghazra/github-readme-stats)-->
-<!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kntabz81)](https://solved.ac/kntabz81)-->
+### 🎬 My Notion
+
+https://pinnate-flare-336.notion.site/4a5026c10b1646a989c0ff12e56d1f1e?pvs=4
+
+
+<!--[![asdf080's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdf080)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kntabz81)](https://solved.ac/kntabz81)
