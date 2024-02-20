@@ -9,13 +9,12 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 🧭 My blog
+### [🧭 My blog](https://08-log.tistory.com/)
 
-https://08-log.tistory.com/
+### [🗂 My Portfolio](https://08intro.netlify.app/)
 
-### 🎬 My Notion
+### [🎬 My Notion](https://pinnate-flare-336.notion.site/4a5026c10b1646a989c0ff12e56d1f1e?pvs=4)
 
-https://pinnate-flare-336.notion.site/4a5026c10b1646a989c0ff12e56d1f1e?pvs=4
 
 
 <!--[![asdf080's GitHub stats](https://github-readme-stats.vercel.app/api?username=asdf080)](https://github.com/anuraghazra/github-readme-stats) -->
